@@ -1,6 +1,6 @@
 {
-    "linkbase": "file:///$(pwd)/2017.postgresopen.org/",
-    "mediabase": "file:///$(pwd)/2017.postgresopen.org/",
+    "linkbase": "file:///workdir/2017.postgresopen.org/",
+    "mediabase": "file:///workdir/2017.postgresopen.org/",
     "githash": "",
     "conference": "PostgresOpen 2017",
 
